@@ -1,0 +1,13 @@
+.banner{
+    background-color: plum;
+    width :100%px;
+    height:100px;
+    margin-bottom:50px;
+}
+.banner-text{
+top:4%;
+left:48%;
+position:absolute;
+transform:transform;
+font-family: "Times New Roman", serif;
+}
